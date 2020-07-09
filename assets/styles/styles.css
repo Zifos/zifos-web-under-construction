@@ -1,0 +1,19 @@
+body {
+  cursor: url("../img/cursor.png"), auto;
+}
+
+.wrapper {
+  background-color: #242840;
+  background-image: url("../img/background.svg");
+}
+
+.content {
+  background-color: #F6E8D9;
+  background-image: url("../img/background-content.svg");
+  border-radius: 4rem;
+}
+
+a, a:hover {
+  cursor: url("../img/cursor-email.png"), auto;
+}
+/*# sourceMappingURL=styles.css.map */
